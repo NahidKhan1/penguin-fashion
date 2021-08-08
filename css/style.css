@@ -1,3 +1,5 @@
+
+
 .nav-item a{
     width: 100px;
     font-weight: 750;
@@ -10,7 +12,7 @@
 
 .penguin-top h1{
     font-size:60px;
-    color: orange;
+    color: goldenrod;
     font-weight: 750;
 }
 .penguin-top h2{
@@ -43,11 +45,17 @@
     color: white;
 }
 
+.pirce{
+    color: goldenrod;
+    font-weight: 750;
+
+}
+
 .Contact-area{
     height: 400px;
 }
 .icon img{
-    width: 150px;
+    width: 100px;
     margin: 10px;
     padding-right: 30px;
 }
@@ -61,9 +69,13 @@
     background-color: white;
     border: 0;
 }
+
+
+@media (max-width:668px){
+
+    .penguin-top img{
+     
+    }
  
 }
-.Penguin-slide .carousel-item{
-    background-color: #fceae8;
-    border-radius: 1em;
-}
+ 
