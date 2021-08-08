@@ -1,0 +1,69 @@
+.nav-item a{
+    width: 100px;
+    font-weight: 750;
+    
+}
+.penguin-top{
+    height:500px;
+
+}
+
+.penguin-top h1{
+    font-size:60px;
+    color: orange;
+    font-weight: 750;
+}
+.penguin-top h2{
+    font-size:60px;
+    color: navy;
+    font-weight: 750;
+}
+.jacket h2{
+    font-size:45px;
+    color: navy;
+    font-weight: 750;
+}
+
+
+
+.jacket img{
+    height: 380px;
+;
+  
+   
+}
+
+.footer-part{
+    display: flex;
+    align-items: flex-end;
+}
+.button{
+    background-color: #9DB63C;
+    border: #9DB63C;
+    color: white;
+}
+
+.Contact-area{
+    height: 400px;
+}
+.icon img{
+    width: 150px;
+    margin: 10px;
+    padding-right: 30px;
+}
+
+.Penguin-card{
+    border: 0;
+
+}
+
+.Penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+ 
+}
+.Penguin-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
