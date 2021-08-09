@@ -11,19 +11,19 @@
 }
 
 .penguin-top h1{
-    font-size:60px;
+    font-size:40px;
     color: goldenrod;
-    font-weight: 700;
+    font-weight: 700 ;
 }
 .penguin-top h2{
-    font-size:60px;
+    font-size:40px;
     color: navy;
     font-weight: 700;
 }
 .jacket h2{
-    font-size:45px;
+    font-size:40px;
     color: navy;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 
@@ -47,7 +47,7 @@
 
 .pirce{
     color: goldenrod;
-    font-weight: 750;
+    font-weight: 600;
 
 }
 
